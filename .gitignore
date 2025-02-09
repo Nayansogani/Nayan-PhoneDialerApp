@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# macOS files
+.DS_Store
+
+# Editor & IDE settings
+.idea/
+.vscode/
+
+# React Native specific
+.expo/
+.expo-shared/
+android/.gradle/
+android/app/build/
+android/.idea/
+ios/Pods/
+ios/build/
